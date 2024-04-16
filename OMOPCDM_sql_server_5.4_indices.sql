@@ -146,7 +146,7 @@ CREATE CLUSTERED INDEX idx_drug_strength_id_1 ON @cdmDatabaseSchema.drug_strengt
 CREATE INDEX idx_drug_strength_id_2 ON @cdmDatabaseSchema.drug_strength (ingredient_concept_id ASC);
 
 
---Additional v6.0 indices
+-- Additional v6.0 indices
 
 --CREATE CLUSTERED INDEX idx_survey_person_id_1 ON @cdmDatabaseSchema.survey_conduct (person_id ASC);
 

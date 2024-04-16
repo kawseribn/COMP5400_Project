@@ -1,0 +1,7 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+9202,Outpatient Visit,Visit,Visit,Visit,S,OP,1970-01-01,2099-12-31,None
+42708201,budesonide 3 MG Delayed Release Oral Capsule,Drug,RxNorm,Clinical Drug,S,1244214,2012-05-07,2099-12-31,None
+3041473,Sodium [Moles/volume] in Venous blood,Measurement,LOINC,Lab Test,S,39791-9,2005-03-14,2099-12-31,None
+4119499,Not for resuscitation,Observation,SNOMED,Clinical Finding,S,304253006,2002-01-31,2099-12-31,None
+44908056,CONTOUR NEXT STRIPS,Device,NDC,Device,S,193731221,2013-08-05,2099-12-31,None
+903096,PMI: Skip,Observation,PPI,Answer,S,PMI_Skip,2017-04-24,2099-12-31,None
