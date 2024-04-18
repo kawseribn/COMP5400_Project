@@ -1,0 +1,11 @@
+person_id,gender_concept_id,year_of_birth,month_of_birth,day_of_birth,birth_datetime,race_concept_id,ethnicity_concept_id,location_id,provider_id,care_site_id,person_source_value,gender_source_value,gender_source_concept_id,race_source_value,race_source_concept_id,ethnicity_source_value,ethnicity_source_concept_id
+2302193,2000000002,1966,4,18,1966-04-18 0:00:00,903096,903096,<NA>,<NA>,<NA>,2302193,GenderIdentity_GeneralizedDiffGender,2000000002,PMI_Skip,903096,PMI_Skip,903096
+3483034,2000000002,1961,6,27,1961-06-27 0:00:00,903096,903096,<NA>,<NA>,<NA>,3483034,GenderIdentity_GeneralizedDiffGender,2000000002,PMI_Skip,903096,PMI_Skip,903096
+1061241,2000000002,1976,2,11,1976-02-11 0:00:00,903096,903096,<NA>,<NA>,<NA>,1061241,GenderIdentity_GeneralizedDiffGender,2000000002,PMI_Skip,903096,PMI_Skip,903096
+1523121,45878463,1968,12,31,1968-12-31 0:00:00,8516,38003564,<NA>,<NA>,<NA>,1523121,GenderIdentity_Woman,1585840,WhatRaceEthnicity_Black,1586143,Not Hispanic,38003564
+1301962,45880669,1988,1,10,1988-01-10 0:00:00,8516,38003564,<NA>,<NA>,<NA>,1301962,GenderIdentity_Man,1585839,WhatRaceEthnicity_Black,1586143,Not Hispanic,38003564
+3202801,45880669,1948,9,25,1948-09-25 0:00:00,8516,38003564,<NA>,<NA>,<NA>,3202801,GenderIdentity_Man,1585839,WhatRaceEthnicity_Black,1586143,Not Hispanic,38003564
+1014571,45878463,1944,4,10,1944-04-10 0:00:00,8527,38003564,<NA>,<NA>,<NA>,1014571,GenderIdentity_Woman,1585840,WhatRaceEthnicity_White,1586146,Not Hispanic,38003564
+2917370,45880669,1959,10,5,1959-10-05 0:00:00,2100000001,38003563,<NA>,<NA>,<NA>,2917370,GenderIdentity_Man,1585839,AoUDRC_NoneIndicated,0,Hispanic,38003563
+2762506,45878463,1962,2,20,1962-02-20 0:00:00,2100000001,38003563,<NA>,<NA>,<NA>,2762506,GenderIdentity_Woman,1585840,AoUDRC_NoneIndicated,0,Hispanic,38003563
+1122849,2000000002,1978,5,10,1978-05-10 0:00:00,2100000001,38003563,<NA>,<NA>,<NA>,1122849,GenderIdentity_GeneralizedDiffGender,2000000002,AoUDRC_NoneIndicated,0,Hispanic,38003563
